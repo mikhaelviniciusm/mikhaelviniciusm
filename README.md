@@ -1,8 +1,4 @@
-<center>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
-
-</center>
 
 <h1 align="center">Mikhael Vinícius</h1>
 
@@ -46,7 +42,7 @@
 [<img align="left" height="94px" width="94px" src="https://scontent.ffor27-1.fna.fbcdn.net/v/t39.30808-6/334034442_229740642806846_3664143900888469211_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uC0NdtnfmQkQ7kNvgEw-J8v&_nc_ht=scontent.ffor27-1.fna&oh=00_AYBE10bUQKGtd0NxGP7AaEw_sjAXSmiVmgHY8n4m2X0DbA&oe=66478538" style="margin-right: 20px;"/>](https://www.unichristus.edu.br/)
 **Análise e Desenvolvimento de Sistemas** \
 [**Unichristus**](https://www.unichristus.edu.br/)  • Em progresso\
-Skills: `Desenvolvimento de Software` `Desenvolvimento Web e Mobile` `Metodologias Ágeis` `Gestão de Projetos` `Gestão de Equipes`
+Habilidades: `Desenvolvimento de Software` `Desenvolvimento Web e Mobile` `Metodologias Ágeis` `Gestão de Projetos` `Gestão de Equipes`
 `Raciocínio Lógico` `Resolução de Problemas`
 
 <br>
