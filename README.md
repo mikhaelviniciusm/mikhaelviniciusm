@@ -6,7 +6,6 @@
 
 <div align="center" style="margin-bottom:50px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=mikhaelviniciusm&theme=github_dark&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelviniciusm&layout=compact&theme=github_dark" />
 </div>
 
 ## Linguagens e Ferramentas
