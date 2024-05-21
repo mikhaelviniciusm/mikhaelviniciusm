@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D8EFE&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <h1 align="center">Mikhael Vinícius</h1>
 
