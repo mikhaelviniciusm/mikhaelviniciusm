@@ -9,14 +9,14 @@ Oi! Eu me chamo Mikhael
 ## Sobre mim 🙋🏻‍♂️
 
 <ul>
-<li>Sou um estudante de ADS apaixonado por tecnologia e inovação.</li
+<li>Sou um estudante de ADS apaixonado por tecnologia e inovação.</li>
 <li>Desenvolvendo habilidades em programação, algoritmos e análise de dados.</li>
 <li>Comprometido com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras</li>
 </ul>
 
 <br>
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas 🌐
 
 <img src="https://static.vecteezy.com/system/resources/previews/033/535/086/non_2x/coding-coding-3d-illustrations-free-png.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -44,7 +44,7 @@ Oi! Eu me chamo Mikhael
 
 <br>
 
-## Formação:
+## Formação 🎓
 
 [<img align="left" height="94px" width="94px" src="https://yt3.googleusercontent.com/mGRWFyTlek9s4t5rFC5Jh64mDTuTRdNrPC6NGDrF8hWeubRt6LbytdV1Zv60zkCrY_5uMG0PsQ=s176-c-k-c0x00ffffff-no-rj" style="margin-right: 20px;"/>](https://www.unichristus.edu.br/)
 **Análise e Desenvolvimento de Sistemas** \
