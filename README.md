@@ -54,7 +54,7 @@ Habilidades: `Desenvolvimento de Software` `Desenvolvimento Web e Mobile` `Metod
 
 <br>
 
-## Me encontre em ✉️
+## Contato 📲
 <div>
 <a href="https://www.instagram.com/mikhaelvinicius/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: mikhaelviniciusm@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
