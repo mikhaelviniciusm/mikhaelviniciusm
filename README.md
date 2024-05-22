@@ -11,7 +11,7 @@ Oi! Eu me chamo Mikhael
 <ul>
 <li>Sou um estudante de ADS apaixonado por tecnologia e inovação.</li>
 <li>Desenvolvendo habilidades em programação, algoritmos e análise de dados.</li>
-<li>Comprometido com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras</li>
+<li>Comprometido com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</li>
 </ul>
 
 <br>
