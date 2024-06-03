@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
 <h2 align="center">
 Oi! Eu me chamo Mikhael 
   <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952z6j49mr1yqfwgdmt4ola0awg73c0jgm8z5qzwgzb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"></h2>
