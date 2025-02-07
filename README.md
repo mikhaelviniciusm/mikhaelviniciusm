@@ -22,23 +22,29 @@ Oi! Eu me chamo Mikhael
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-#### Estudando no momento:
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
+#### Estudando no momento:
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
 #### Ferramentas:
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/pt-br/idea/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 
 #### Sistemas Operacionais:
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/pt-br/windows)
 [<img height="48px" width="48px" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=apple"/>](https://www.apple.com/br/macos)
 
 <br>
 
