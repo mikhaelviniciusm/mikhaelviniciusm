@@ -50,7 +50,7 @@ Oi! Eu me chamo Mikhael
 
 ## Formação 🎓
 
-[<img align="left" height="94px" width="94px" src="https://yt3.googleusercontent.com/mGRWFyTlek9s4t5rFC5Jh64mDTuTRdNrPC6NGDrF8hWeubRt6LbytdV1Zv60zkCrY_5uMG0PsQ=s176-c-k-c0x00ffffff-no-rj" style="margin-right: 20px;"/>](https://www.unichristus.edu.br/)
+[<img align="left" height="94px" width="94px" src="https://yt3.googleusercontent.com/_i_nm6e5x1XxjqOFmLxilzbpzZ9K_zP3FdhvXNreqqbF4GPHsZD88YwuJ115_OJGvWW0qMdpbzM=s160-c-k-c0x00ffffff-no-rj" style="margin-right: 20px;"/>](https://www.unichristus.edu.br/)
 **Análise e Desenvolvimento de Sistemas** \
 [**Unichristus**](https://www.unichristus.edu.br/)  • Em progresso\
 Habilidades: `Desenvolvimento de Software` `Desenvolvimento Web e Mobile` `Metodologias Ágeis` `Gestão de Projetos` `Gestão de Equipes`
